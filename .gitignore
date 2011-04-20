@@ -1,0 +1,12 @@
+# built application files
+*.apk
+*.app_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generatred GUI files
+*R.java

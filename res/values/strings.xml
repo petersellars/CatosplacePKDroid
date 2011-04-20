@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PKDroid</string>
+    <string name="title">PKDroid by Catosplace</string>
+    
+    <string name="add_task">Add Task</string>
+    
+    <string name="done_label">Done</string>
+    
+    <string name="add_task_hint">Describe the new task...</string>
+</resources>
